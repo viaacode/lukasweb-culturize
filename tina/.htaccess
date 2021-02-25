@@ -1,0 +1,10 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule data/0010034036$ https://artinflanders.be/en/artwork/0010034036 [R=302,NC,NE,L]
+RewriteRule data/0010034037$ https://artinflanders.be/en/artwork/0010034037 [R=302,NC,NE,L]
+RewriteRule data/0010034038$ https://artinflanders.be/en/artwork/0010034038 [R=302,NC,NE,L]
+RewriteRule data/0010034039$ https://artinflanders.be/en/artwork/0010034039 [R=302,NC,NE,L]
+RewriteRule data/0010034040$ https://artinflanders.be/en/artwork/0010034040 [R=302,NC,NE,L]
+RewriteRule data/0010034041$ https://artinflanders.be/en/artwork/0010034041 [R=302,NC,NE,L]
+RewriteRule data/0010034042$ https://artinflanders.be/en/artwork/0010034042 [R=302,NC,NE,L]
